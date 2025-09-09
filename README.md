@@ -2,6 +2,7 @@
 <h3 align="center">a apassionate ingenier student from Colombia</h3>
 
 <h3 align="left">Connect with me:</h3>
+<p> sacosta80@ucatolica.edu.co </p>
 <p align="left">
 </p>
 
